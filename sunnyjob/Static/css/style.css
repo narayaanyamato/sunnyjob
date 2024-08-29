@@ -1,0 +1,9 @@
+body{
+    background-color:antiquewhite ;
+    background-image: url('../img//bg.jpg');
+    background-position: center;
+    filter: blur(10);
+}
+.container .jumbotron{
+    margin: 150px;
+}

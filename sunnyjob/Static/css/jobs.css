@@ -1,0 +1,10 @@
+.container-div{
+    background-image:url('../img/header.png');
+    background-position: center;
+    filter: blur(10);
+    width:100%;
+    text-align: center;
+    padding: 35px;
+    color: white;
+
+}
